@@ -1,5 +1,5 @@
-# <Your-Project-Title>
 
+<<<<<<< HEAD
 ## Description
 
 
@@ -33,3 +33,5 @@ N/A
 
 Please refer to the License in the repo.
 
+=======
+>>>>>>> 6d7c945303ebd80574e2ff00b6cbcfd0af2b7aee
